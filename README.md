@@ -31,12 +31,10 @@ Ce projet est un exercice en R pour pratiquer :
 - Note maximale : 17  
 - Note minimale : 8  
 
----
-
-## Graphiques
+---## Graphiques
 - **Barplot** : chaque barre représente une note, la couleur varie selon la note, et la ligne rouge montre la moyenne  
 - **Scatter plot** : chaque point représente une note, la ligne rouge indique la moyenne
 
 
 ## Auteur
-Ton Nom
+Vanschoor S.
